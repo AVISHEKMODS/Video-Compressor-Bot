@@ -4,7 +4,7 @@ from bot.get_cfg import get_config
 class Localisation:
     START_TEXT = """Ciao😁,
     
-This is <b>🌈Saviour Coders' Video Compressor Bot🌈.</b>
+This is <b>🌈AVISHEK MODS' Video Compressor Bot🌈.</b>
 
 <i>🥇Send any link and it will be Compressed to the desired size.🥇</i>
 
@@ -15,9 +15,9 @@ This is <b>🌈Saviour Coders' Video Compressor Bot🌈.</b>
 🎯Responsive 
 🎯Easy to use</i>
 
-<b>Support Group</b> :- ⛵️@ubuntu_coders⛵️
-<b>Support Channel</b> :- 💈@UCbotchannel💈
-<b>My Master</b> :- 🔮@saviour_coder🔮"""
+<b>Support Group</b> :- ⛵️https://t.me/+cV8AAEXFsFo1MzU1⛵️
+<b>Support Channel</b> :- 💈@AVISHEKMODS💈
+<b>My Master</b> :- 🔮@avishek_mods🔮"""
     ABS_TEXT = " Please don't be selfish."
     
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
@@ -57,7 +57,7 @@ This is <b>🌈Saviour Coders' Video Compressor Bot🌈.</b>
     
     HELP_MESSAGE = get_config(
         "STRINGS_HELP_MESSAGE",
-        "Hi I am <b>🦋Saviour Coder Video Compressor Bot🦋</b> \n\n1. <i>Sent your telegram big video file</i> \n2. <i>Reply the file - /compress And enter the Persentage to which you want to compress</i> \n\n👉🏻Eg:- <code>/compress 50</code> compresses the video to 50%👈🏻 \n\nSupport Group :@ubuntu_coders"
+        "Hi I am <b>🦋AVISHEK MODS Video Compressor Bot🦋</b> \n\n1. <i>Sent your telegram big video file</i> \n2. <i>Reply the file - /compress And enter the Persentage to which you want to compress</i> \n\n👉🏻Eg:- <code>/compress 50</code> compresses the video to 50%👈🏻 \n\nSupport Group :https://t.me/+cV8AAEXFsFo1MzU1"
     )
     WRONG_MESSAGE = get_config(
         "STRINGS_WRONG_MESSAGE",
